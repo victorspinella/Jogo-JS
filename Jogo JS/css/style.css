@@ -22,9 +22,10 @@
 }
 
 .mario {
-    width: 150px;
-    position: absolute;
-    bottom: 0;    
+    width: 200px;
+    position:absolute;
+    bottom: 0;
+    
 }
 
 .jump {
